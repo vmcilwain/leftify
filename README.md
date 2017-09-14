@@ -1,6 +1,6 @@
 # Leftify
 
-Indent text to the left a set number of spaces. A scenario that fits this would be posting code to stackoverflow or reddit where indentation is needed.
+Indent text to the right a set number of spaces. A scenario that fits this would be posting code to stackoverflow or reddit where indentation is needed.
 
 ## Disclaimer
 
