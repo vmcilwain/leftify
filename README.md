@@ -22,7 +22,7 @@ produces:
     World
 ```
 
-Override the default number of spaces (say 40 spaces)
+Override the default number of spaces (say 30 spaces)
 
 ```
 printf "Hello
