@@ -1,0 +1,9 @@
+#! /usr/bin/env ruby
+
+ENV['DEFAULT_SPACES'] = '4'
+
+count = ENV['SPACES'].nil? ? ENV['DEFAULT_SPACES'] : ENV['SPACES']
+
+ARGF.each_line do |line|
+  puts "\s" * Integer(count) + line
+end
